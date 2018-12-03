@@ -2,7 +2,7 @@ PROJECT DESCRIPTION:
 
 Summary:
 The program will take user input of stocks and start and end dates. It will then conduct visualisation, risk analysis, and a trading strategy based on the tickers inputted.
-The program also conducts Machine learning on the tickers for Apple, Google, Microsoft and IBM data from the dates 
+The program also conducts Machine learning on the tickers for Apple, Microsoft, IBM and FTEC data from the dates from 2015.11.19 to 2018.11.19.
 Visualisation:
 Plotting the histogram of daily percentage change for each input stock
 Plotting rolling time window for 50 days and 200 days with day to day price movement
