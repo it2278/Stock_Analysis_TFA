@@ -21,7 +21,8 @@ Expected return and risk for each stock is calculated. The VAR model is used to 
 ## Evaluating the strategy:
     The CAGR of this strategy is shown.The compound annual growth rate is used to measure the growth over multiple time periods. It can be thought of as the growth rate that gets you from the initial investment value to the ending investment value if you assume that the investment has been compounding over the time period.
 
-# Machine Learning: Done on stocks for Amazon, Google, Microsoft, IBM.
+# Machine Learning: 
+- Done on stocks for Amazon, Google, Microsoft, IBM.
 
 ## Prediction: 
 - Predict the performance of the ETF stock for technology industry using APPLE, IBM and MICROSOFT stock data. Using Learning Regression, Log-it Regression, Random Forest and Neutral Network: Dependent Variable: A binary variable indicating whether the close price is greater than the open price for the ETF stock Independent Variables: Close price and Open price for each individual stock Results: The logistic regression generates the best result. We correct prediction with probability above 80%
